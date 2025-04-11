@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
+import Link from 'next/link';
 
 const wordList = [
   {
@@ -65,38 +66,51 @@ export default function BabyLesson() {
   };
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center text-center p-8 bg-orange-50">
-      <motion.div
-        className="text-7xl"
-        initial={{ scale: 0 }}
-        animate={{ scale: 1 }}
-        key={word.hanzi}
-        transition={{ type: 'spring', stiffness: 100 }}
-      >
-        {word.emoji}
-      </motion.div>
-      <h1 className="text-5xl font-bold mt-4">{word.hanzi}</h1>
-      <p className="text-xl text-gray-600 mt-2">{word.pinyin}</p>
-      <p className="text-lg text-gray-500 mt-1">{word.english}</p>
-      <div className="mt-6 flex gap-4">
-        <button
-          onClick={prevWord}
-          className="px-4 py-2 bg-gray-300 rounded-xl shadow"
+    <div className="min-h-screen flex flex-col items-center bg-orange-50">
+      {/* 🧡 Sticky Header */}
+      <header className="w-full bg-orange-200 text-orange-900 px-4 py-3 sticky top-0 shadow-md z-10 flex justify-start">
+        <Link
+          href="/"
+          className="text-lg font-semibold hover:underline flex items-center gap-2"
         >
-          ⬅️ Prev
-        </button>
-        <button
-          onClick={playSound}
-          className="px-6 py-3 bg-orange-400 hover:bg-orange-500 text-white font-semibold rounded-2xl shadow-xl"
+          ← Back to Home
+        </Link>
+      </header>
+
+      {/* 🍼 Lesson Content */}
+      <div className="flex-1 flex flex-col items-center justify-center text-center p-8">
+        <motion.div
+          className="text-7xl"
+          initial={{ scale: 0 }}
+          animate={{ scale: 1 }}
+          key={word.hanzi}
+          transition={{ type: 'spring', stiffness: 100 }}
         >
-          🔊 Say it!
-        </button>
-        <button
-          onClick={nextWord}
-          className="px-4 py-2 bg-gray-300 rounded-xl shadow"
-        >
-          Next ➡️
-        </button>
+          {word.emoji}
+        </motion.div>
+        <h1 className="text-5xl font-bold mt-4">{word.hanzi}</h1>
+        <p className="text-xl text-gray-600 mt-2">{word.pinyin}</p>
+        <p className="text-lg text-gray-500 mt-1">{word.english}</p>
+        <div className="mt-6 flex gap-4">
+          <button
+            onClick={prevWord}
+            className="px-4 py-2 bg-gray-300 rounded-xl shadow"
+          >
+            ⬅️ Prev
+          </button>
+          <button
+            onClick={playSound}
+            className="px-6 py-3 bg-orange-400 hover:bg-orange-500 text-white font-semibold rounded-2xl shadow-xl"
+          >
+            🔊 Say it!
+          </button>
+          <button
+            onClick={nextWord}
+            className="px-4 py-2 bg-gray-300 rounded-xl shadow"
+          >
+            Next ➡️
+          </button>
+        </div>
       </div>
     </div>
   );
