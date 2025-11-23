@@ -1,0 +1,638 @@
+[
+  {
+    "hanzi": "你好吗？",
+    "pinyin": "nǐ hǎo ma?",
+    "english": "How are you?",
+    "emoji": "❓"
+  },
+  {
+    "hanzi": "我喜欢学习中文。",
+    "pinyin": "wǒ xǐ huān xué xí zhōng wén.",
+    "english": "I like studying Chinese.",
+    "emoji": "📚"
+  },
+  {
+    "hanzi": "今天天气很好。",
+    "pinyin": "jīn tiān tiān qì hěn hǎo.",
+    "english": "The weather is nice today.",
+    "emoji": "☀️"
+  },
+  {
+    "hanzi": "请问厕所在哪里？",
+    "pinyin": "qǐng wèn cè suǒ zài nǎ lǐ?",
+    "english": "Excuse me, where is the restroom?",
+    "emoji": "🚻"
+  },  
+  {
+    "hanzi": "早上好。",
+    "pinyin": "zǎo shang hǎo.",
+    "english": "Good morning.",
+    "emoji": "🌅"
+  },
+  {
+    "hanzi": "晚安。",
+    "pinyin": "wǎn ān.",
+    "english": "Good night.",
+    "emoji": "yw"
+  },
+  {
+    "hanzi": "好久不见。",
+    "pinyin": "hǎo jiǔ bú jiàn.",
+    "english": "Long time no see.",
+    "emoji": "👋"
+  },
+  {
+    "hanzi": "你叫什么名字？",
+    "pinyin": "nǐ jiào shén me míng zi?",
+    "english": "What is your name?",
+    "emoji": "📛"
+  },
+  {
+    "hanzi": "我叫大卫。",
+    "pinyin": "wǒ jiào dà wèi.",
+    "english": "My name is David.",
+    "emoji": "👨"
+  },
+  {
+    "hanzi": "很高兴认识你。",
+    "pinyin": "hěn gāo xìng rèn shi nǐ.",
+    "english": "Nice to meet you.",
+    "emoji": "🤝"
+  },
+  {
+    "hanzi": "谢谢你的帮助。",
+    "pinyin": "xiè xie nǐ de bāng zhù.",
+    "english": "Thanks for your help.",
+    "emoji": "🙏"
+  },
+  {
+    "hanzi": "不客气。",
+    "pinyin": "bú kè qi.",
+    "english": "You are welcome.",
+    "emoji": "😊"
+  },
+  {
+    "hanzi": "对不起。",
+    "pinyin": "duì bu qǐ.",
+    "english": "I am sorry.",
+    "emoji": "🙇"
+  },
+  {
+    "hanzi": "没关系。",
+    "pinyin": "méi guān xi.",
+    "english": "It's okay / No problem.",
+    "emoji": "👌"
+  },
+  {
+    "hanzi": "我也这么觉得。",
+    "pinyin": "wǒ yě zhè me jué de.",
+    "english": "I think so too.",
+    "emoji": "🤔"
+  },
+  {
+    "hanzi": "我不明白。",
+    "pinyin": "wǒ bù míng bai.",
+    "english": "I don't understand.",
+    "emoji": "😕"
+  },
+  {
+    "hanzi": "请再说一遍。",
+    "pinyin": "qǐng zài shuō yí biàn.",
+    "english": "Please say it again.",
+    "emoji": "🔁"
+  },
+  {
+    "hanzi": "你会说英语吗？",
+    "pinyin": "nǐ huì shuō yīng yǔ ma?",
+    "english": "Do you speak English?",
+    "emoji": "🇬🇧"
+  },
+  {
+    "hanzi": "这个多少钱？",
+    "pinyin": "zhè ge duō shao qián?",
+    "english": "How much is this?",
+    "emoji": "💰"
+  },
+  {
+    "hanzi": "太贵了！",
+    "pinyin": "tài guì le!",
+    "english": "Too expensive!",
+    "emoji": "💸"
+  },
+  {
+    "hanzi": "便宜一点吧。",
+    "pinyin": "pián yi yì diǎn ba.",
+    "english": "Can you make it cheaper?",
+    "emoji": "🏷️"
+  },
+  {
+    "hanzi": "我要这个。",
+    "pinyin": "wǒ yào zhè ge.",
+    "english": "I want this one.",
+    "emoji": "👉"
+  },
+  {
+    "hanzi": "我饿了。",
+    "pinyin": "wǒ è le.",
+    "english": "I am hungry.",
+    "emoji": "😋"
+  },
+  {
+    "hanzi": "我渴了。",
+    "pinyin": "wǒ kě le.",
+    "english": "I am thirsty.",
+    "emoji": "🥤"
+  },
+  {
+    "hanzi": "我们去吃饭吧。",
+    "pinyin": "wǒ men qù chī fàn ba.",
+    "english": "Let's go eat.",
+    "emoji": "🍜"
+  },
+  {
+    "hanzi": "服务员，点菜。",
+    "pinyin": "fú wù yuán, diǎn cài.",
+    "english": "Waiter, I'd like to order.",
+    "emoji": "📝"
+  },
+  {
+    "hanzi": "很好吃。",
+    "pinyin": "hěn hǎo chī.",
+    "english": "It's delicious.",
+    "emoji": "🤤"
+  },
+  {
+    "hanzi": "买单。",
+    "pinyin": "mǎi dān.",
+    "english": "The check, please.",
+    "emoji": "🧾"
+  },
+  {
+    "hanzi": "干杯！",
+    "pinyin": "gān bēi!",
+    "english": "Cheers!",
+    "emoji": "🍻"
+  },
+  {
+    "hanzi": "这是什么？",
+    "pinyin": "zhè shì shén me?",
+    "english": "What is this?",
+    "emoji": "❓"
+  },
+  {
+    "hanzi": "现在几点了？",
+    "pinyin": "xiàn zài jǐ diǎn le?",
+    "english": "What time is it now?",
+    "emoji": "⌚"
+  },
+  {
+    "hanzi": "我们要迟到了。",
+    "pinyin": "wǒ men yào chí dào le.",
+    "english": "We are going to be late.",
+    "emoji": "🏃"
+  },
+  {
+    "hanzi": "明天见。",
+    "pinyin": "míng tiān jiàn.",
+    "english": "See you tomorrow.",
+    "emoji": "📅"
+  },
+  {
+    "hanzi": "周末愉快！",
+    "pinyin": "zhōu mò yú kuài!",
+    "english": "Have a nice weekend!",
+    "emoji": "🎉"
+  },
+  {
+    "hanzi": "我的手机没电了。",
+    "pinyin": "wǒ de shǒu jī méi diàn le.",
+    "english": "My phone is out of battery.",
+    "emoji": "🔋"
+  },
+  {
+    "hanzi": "这里的wifi密码是什么？",
+    "pinyin": "zhè lǐ de wifi mì mǎ shì shén me?",
+    "english": "What is the wifi password here?",
+    "emoji": "📶"
+  },
+  {
+    "hanzi": "我想去洗手间。",
+    "pinyin": "wǒ xiǎng qù xǐ shǒu jiān.",
+    "english": "I want to go to the restroom.",
+    "emoji": "🚻"
+  },
+  {
+    "hanzi": "救命！",
+    "pinyin": "jiù mìng!",
+    "english": "Help!",
+    "emoji": "🆘"
+  },
+  {
+    "hanzi": "我迷路了。",
+    "pinyin": "wǒ mí lù le.",
+    "english": "I am lost.",
+    "emoji": "🗺️"
+  },
+  {
+    "hanzi": "请问地铁站在哪里？",
+    "pinyin": "qǐng wèn dì tiě zhàn zài nǎ lǐ?",
+    "english": "Excuse me, where is the subway station?",
+    "emoji": "🚇"
+  },
+  {
+    "hanzi": "一直走。",
+    "pinyin": "yì zhí zǒu.",
+    "english": "Go straight.",
+    "emoji": "⬆️"
+  },
+  {
+    "hanzi": "左转。",
+    "pinyin": "zuǒ zhuǎn.",
+    "english": "Turn left.",
+    "emoji": "⬅️"
+  },
+  {
+    "hanzi": "右转。",
+    "pinyin": "yòu zhuǎn.",
+    "english": "Turn right.",
+    "emoji": "➡️"
+  },
+  {
+    "hanzi": "我累了。",
+    "pinyin": "wǒ lèi le.",
+    "english": "I am tired.",
+    "emoji": "😫"
+  },
+  {
+    "hanzi": "我病了。",
+    "pinyin": "wǒ bìng le.",
+    "english": "I am sick.",
+    "emoji": "😷"
+  },
+  {
+    "hanzi": "我不舒服。",
+    "pinyin": "wǒ bù shū fu.",
+    "english": "I don't feel well.",
+    "emoji": "🤢"
+  },
+  {
+    "hanzi": "你看医生了吗？",
+    "pinyin": "nǐ kàn yī shēng le ma?",
+    "english": "Have you seen a doctor?",
+    "emoji": "👨‍⚕️"
+  },
+  {
+    "hanzi": "你要喝茶还是咖啡？",
+    "pinyin": "nǐ yào hē chá hái shì kā fēi?",
+    "english": "Do you want tea or coffee?",
+    "emoji": "☕"
+  },
+  {
+    "hanzi": "我不吃辣。",
+    "pinyin": "wǒ bù chī là.",
+    "english": "I don't eat spicy food.",
+    "emoji": "🌶️"
+  },
+  {
+    "hanzi": "祝你生日快乐！",
+    "pinyin": "zhù nǐ shēng rì kuài lè!",
+    "english": "Happy birthday to you!",
+    "emoji": "🎂"
+  },
+  {
+    "hanzi": "新年快乐！",
+    "pinyin": "xīn nián kuài lè!",
+    "english": "Happy New Year!",
+    "emoji": "🧨"
+  },
+  {
+    "hanzi": "恭喜！",
+    "pinyin": "gōng xǐ!",
+    "english": "Congratulations!",
+    "emoji": "🎊"
+  },
+  {
+    "hanzi": "加油！",
+    "pinyin": "jiā yóu!",
+    "english": "Come on! / You can do it! (Add oil)",
+    "emoji": "💪"
+  },
+  {
+    "hanzi": "这是我的名片。",
+    "pinyin": "zhè shì wǒ de míng piàn.",
+    "english": "This is my business card.",
+    "emoji": "📇"
+  },
+  {
+    "hanzi": "你在做什么？",
+    "pinyin": "nǐ zài zuò shén me?",
+    "english": "What are you doing?",
+    "emoji": "🤷"
+  },
+  {
+    "hanzi": "我想休息一下。",
+    "pinyin": "wǒ xiǎng xiū xi yí xià.",
+    "english": "I want to take a break.",
+    "emoji": "🛋️"
+  },
+  {
+    "hanzi": "别担心。",
+    "pinyin": "bié dān xīn.",
+    "english": "Don't worry.",
+    "emoji": "😌"
+  },
+  {
+    "hanzi": "你住在哪里？",
+    "pinyin": "nǐ zhù zài nǎ lǐ?",
+    "english": "Where do you live?",
+    "emoji": "🏠"
+  },
+  {
+    "hanzi": "你是哪国人？",
+    "pinyin": "nǐ shì nǎ guó rén?",
+    "english": "Which country are you from?",
+    "emoji": "🌏"
+  },
+  {
+    "hanzi": "我喜欢旅游。",
+    "pinyin": "wǒ xǐ huān lǚ yóu.",
+    "english": "I like traveling.",
+    "emoji": "✈️"
+  },
+  {
+    "hanzi": "外面下雨了。",
+    "pinyin": "wài miàn xià yǔ le.",
+    "english": "It is raining outside.",
+    "emoji": "☔"
+  },
+  {
+    "hanzi": "今天很热。",
+    "pinyin": "jīn tiān hěn rè.",
+    "english": "It is hot today.",
+    "emoji": "🔥"
+  },
+  {
+    "hanzi": "今天很冷。",
+    "pinyin": "jīn tiān hěn lěng.",
+    "english": "It is cold today.",
+    "emoji": "❄️"
+  },
+  {
+    "hanzi": "你有空吗？",
+    "pinyin": "nǐ yǒu kòng ma?",
+    "english": "Are you free?",
+    "emoji": "🗓️"
+  },
+  {
+    "hanzi": "我没空。",
+    "pinyin": "wǒ méi kòng.",
+    "english": "I am not free.",
+    "emoji": "🚫"
+  },
+  {
+    "hanzi": "真的吗？",
+    "pinyin": "zhēn de ma?",
+    "english": "Really?",
+    "emoji": "😯"
+  },
+  {
+    "hanzi": "开玩笑。",
+    "pinyin": "kāi wán xiào.",
+    "english": "Just kidding.",
+    "emoji": "😜"
+  },
+  {
+    "hanzi": "不用了，谢谢。",
+    "pinyin": "bú yòng le, xiè xie.",
+    "english": "No need, thank you.",
+    "emoji": "✋"
+  },
+  {
+    "hanzi": "小心！",
+    "pinyin": "xiǎo xīn!",
+    "english": "Be careful!",
+    "emoji": "⚠️"
+  },
+  {
+    "hanzi": "慢一点。",
+    "pinyin": "màn yì diǎn.",
+    "english": "A little slower.",
+    "emoji": "🐌"
+  },
+  {
+    "hanzi": "快一点。",
+    "pinyin": "kuài yì diǎn.",
+    "english": "A little faster.",
+    "emoji": "🐇"
+  },
+  {
+    "hanzi": "这是秘密。",
+    "pinyin": "zhè shì mì mì.",
+    "english": "This is a secret.",
+    "emoji": "🤫"
+  },
+  {
+    "hanzi": "我忘记了。",
+    "pinyin": "wǒ wàng jì le.",
+    "english": "I forgot.",
+    "emoji": "🧠"
+  },
+  {
+    "hanzi": "我记得。",
+    "pinyin": "wǒ jì de.",
+    "english": "I remember.",
+    "emoji": "💡"
+  },
+  {
+    "hanzi": "随便。",
+    "pinyin": "suí biàn.",
+    "english": "Whatever / As you wish.",
+    "emoji": "🤷‍♂️"
+  },
+  {
+    "hanzi": "我爱你。",
+    "pinyin": "wǒ ài nǐ.",
+    "english": "I love you.",
+    "emoji": "❤️"
+  },
+  {
+    "hanzi": "我也爱你。",
+    "pinyin": "wǒ yě ài nǐ.",
+    "english": "I love you too.",
+    "emoji": "💑"
+  },
+  {
+    "hanzi": "你真漂亮。",
+    "pinyin": "nǐ zhēn piào liang.",
+    "english": "You are really beautiful.",
+    "emoji": "💃"
+  },
+  {
+    "hanzi": "你真帅。",
+    "pinyin": "nǐ zhēn shuài.",
+    "english": "You are really handsome.",
+    "emoji": "🕺"
+  },
+  {
+    "hanzi": "好极了！",
+    "pinyin": "hǎo jí le!",
+    "english": "Excellent!",
+    "emoji": "🌟"
+  },
+  {
+    "hanzi": "马马虎虎。",
+    "pinyin": "mǎ mǎ hū hū.",
+    "english": "So-so.",
+    "emoji": "🐴"
+  },
+  {
+    "hanzi": "请进。",
+    "pinyin": "qǐng jìn.",
+    "english": "Please come in.",
+    "emoji": "🚪"
+  },
+  {
+    "hanzi": "请坐。",
+    "pinyin": "qǐng zuò.",
+    "english": "Please sit down.",
+    "emoji": "🪑"
+  },
+  {
+    "hanzi": "你结婚了吗？",
+    "pinyin": "nǐ jié hūn le ma?",
+    "english": "Are you married?",
+    "emoji": "💍"
+  },
+  {
+    "hanzi": "我有男朋友。",
+    "pinyin": "wǒ yǒu nán péng you.",
+    "english": "I have a boyfriend.",
+    "emoji": "👫"
+  },
+  {
+    "hanzi": "我有女朋友。",
+    "pinyin": "wǒ yǒu nǚ péng you.",
+    "english": "I have a girlfriend.",
+    "emoji": "👭"
+  },
+  {
+    "hanzi": "你几岁了？",
+    "pinyin": "nǐ jǐ suì le?",
+    "english": "How old are you? (to children)",
+    "emoji": "👶"
+  },
+  {
+    "hanzi": "你多大了？",
+    "pinyin": "nǐ duō dà le?",
+    "english": "How old are you? (general)",
+    "emoji": "🎂"
+  },
+  {
+    "hanzi": "我在学习汉语。",
+    "pinyin": "wǒ zài xué xí hàn yǔ.",
+    "english": "I am learning Chinese.",
+    "emoji": "📖"
+  },
+  {
+    "hanzi": "这是我的错。",
+    "pinyin": "zhè shì wǒ de cuò.",
+    "english": "This is my fault.",
+    "emoji": "😣"
+  },
+  {
+    "hanzi": "我想买衣服。",
+    "pinyin": "wǒ xiǎng mǎi yī fu.",
+    "english": "I want to buy clothes.",
+    "emoji": "👕"
+  },
+  {
+    "hanzi": "可以试穿吗？",
+    "pinyin": "kě yǐ shì chuān ma?",
+    "english": "Can I try it on?",
+    "emoji": "👗"
+  },
+  {
+    "hanzi": "有点大。",
+    "pinyin": "yǒu diǎn dà.",
+    "english": "It's a bit big.",
+    "emoji": "🐘"
+  },
+  {
+    "hanzi": "有点小。",
+    "pinyin": "yǒu diǎn xiǎo.",
+    "english": "It's a bit small.",
+    "emoji": "🐜"
+  },
+  {
+    "hanzi": "我不相信。",
+    "pinyin": "wǒ bù xiāng xìn.",
+    "english": "I don't believe it.",
+    "emoji": "🙅"
+  },
+  {
+    "hanzi": "当然。",
+    "pinyin": "dāng rán.",
+    "english": "Of course.",
+    "emoji": "👍"
+  },
+  {
+    "hanzi": "不可能。",
+    "pinyin": "bù kě néng.",
+    "english": "Impossible.",
+    "emoji": "❌"
+  },
+  {
+    "hanzi": "你在哪里工作？",
+    "pinyin": "nǐ zài nǎ lǐ gōng zuò?",
+    "english": "Where do you work?",
+    "emoji": "🏢"
+  },
+  {
+    "hanzi": "我是老师。",
+    "pinyin": "wǒ shì lǎo shī.",
+    "english": "I am a teacher.",
+    "emoji": "👨‍🏫"
+  },
+  {
+    "hanzi": "我是学生。",
+    "pinyin": "wǒ shì xué shēng.",
+    "english": "I am a student.",
+    "emoji": "🎒"
+  },
+  {
+    "hanzi": "保重。",
+    "pinyin": "bǎo zhòng.",
+    "english": "Take care.",
+    "emoji": "🛡️"
+  },
+  {
+    "hanzi": "一路顺风。",
+    "pinyin": "yí lù shùn fēng.",
+    "english": "Have a safe trip.",
+    "emoji": "🛫"
+  },
+  {
+    "hanzi": "麻烦你了。",
+    "pinyin": "má fan nǐ le.",
+    "english": "Sorry to trouble you.",
+    "emoji": "😅"
+  },
+  {
+    "hanzi": "我不吸烟。",
+    "pinyin": "wǒ bù xī yān.",
+    "english": "I don't smoke.",
+    "emoji": "🚭"
+  },
+  {
+    "hanzi": "这里有人吗？",
+    "pinyin": "zhè lǐ yǒu rén ma?",
+    "english": "Is this seat taken?",
+    "emoji": "💺"
+  },
+  {
+    "hanzi": "请给我一杯水。",
+    "pinyin": "qǐng gěi wǒ yì bēi shuǐ.",
+    "english": "Please give me a glass of water.",
+    "emoji": "💧"
+  }
+]

@@ -21,12 +21,26 @@ export default function Home() {
         Tap, listen, and learn your first words in Mandarin — with emojis, sounds, and baby-level fun! 🧸✨
       </p>
 
-      <Link
-        href="/baby-lesson"
-        className="mt-8 inline-block bg-orange-400 hover:bg-orange-500 text-white font-semibold text-lg px-6 py-3 rounded-2xl shadow-lg transition duration-300"
-      >
-        🚀 Start Learning!
-      </Link>
+      <div className="mt-8 flex gap-6 justify-center">
+        <Link
+          href="/words"
+          className="inline-block bg-orange-400 hover:bg-orange-500 text-white font-semibold text-lg px-6 py-3 rounded-2xl shadow-lg transition duration-300"
+        >
+          📚 Vocabulary Words
+        </Link>
+        <Link
+          href="/sentences"
+          className="inline-block bg-yellow-400 hover:bg-yellow-500 text-white font-semibold text-lg px-6 py-3 rounded-2xl shadow-lg transition duration-300"
+        >
+          ✍️ Sentences
+        </Link>
+        <Link
+          href="/how-to-read"
+          className="inline-block bg-green-500 hover:bg-green-600 text-white font-semibold text-lg px-6 py-3 rounded-2xl shadow-lg transition duration-300"
+        >
+          🗣 How to Read
+        </Link>
+      </div>
 
       <footer className="mt-16 text-sm text-gray-500">
         Made with ❤️ using Next.js + TTS : M. Alfa Ridzi, S.Mat Project

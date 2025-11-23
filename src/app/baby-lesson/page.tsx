@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useCallback } from 'react';
 import { motion } from 'framer-motion';
 import Link from 'next/link';
 
@@ -36,24 +36,38 @@ export default function BabyLesson() {
   const [index, setIndex] = useState(0);
   const word = wordList[index];
 
-  useEffect(() => {
-    const loadVoices = () => {
-      const voices = speechSynthesis.getVoices();
-      const chineseVoice = voices.find(v => v.lang.startsWith('zh'));
-      if (chineseVoice) setVoice(chineseVoice);
-    };
+  const loadVoices = useCallback(() => {
+    const voices = speechSynthesis.getVoices();
+    if (!voices.length) {
+      setTimeout(loadVoices, 100);
+      return;
+    }
+    const chineseVoice = voices.find(v => v.lang.startsWith('zh'));
+    if (chineseVoice) {
+      setVoice(chineseVoice);
+    } else {
+      setVoice(null);
+      console.warn('No Chinese voice found for speech synthesis.');
+    }
+  }, []);
 
+  useEffect(() => {
     if (speechSynthesis.onvoiceschanged !== undefined) {
       speechSynthesis.onvoiceschanged = loadVoices;
     }
     loadVoices();
-  }, []);
+  }, [loadVoices]);
 
   const playSound = () => {
+    if (!word) return;
     const utterance = new SpeechSynthesisUtterance(word.hanzi);
     utterance.lang = 'zh-CN';
     utterance.rate = 0.85;
-    if (voice) utterance.voice = voice;
+    if (voice) {
+      utterance.voice = voice;
+    } else {
+      console.warn('Playing with default voice because no Chinese voice loaded.');
+    }
     speechSynthesis.speak(utterance);
   };
 

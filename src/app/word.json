@@ -1,0 +1,2228 @@
+[
+  {
+    "hanzi": "你好",
+    "pinyin": "nǐ hǎo",
+    "english": "Hello",
+    "emoji": "👋"
+  },
+  {
+    "hanzi": "谢谢",
+    "pinyin": "xiè xiè",
+    "english": "Thank you",
+    "emoji": "🙏"
+  },
+  {
+    "hanzi": "妈妈",
+    "pinyin": "mā ma",
+    "english": "Mom",
+    "emoji": "👩"
+  },
+  {
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "english": "Water",
+    "emoji": "💧"
+  },
+  {
+    "hanzi": "爸爸",
+    "pinyin": "bà ba",
+    "english": "Dad",
+    "emoji": "👨"
+  },
+  {
+    "hanzi": "再见",
+    "pinyin": "zài jiàn",
+    "english": "Goodbye",
+    "emoji": "👋"
+  },
+  {
+    "hanzi": "对不起",
+    "pinyin": "duì bu qǐ",
+    "english": "Sorry",
+    "emoji": "😔"
+  },
+  {
+    "hanzi": "没关系",
+    "pinyin": "méi guān xi",
+    "english": "It's okay / No problem",
+    "emoji": "😊"
+  },
+  {
+    "hanzi": "请",
+    "pinyin": "qǐng",
+    "english": "Please",
+    "emoji": "🤲"
+  },
+  {
+    "hanzi": "是",
+    "pinyin": "shì",
+    "english": "Yes / To be",
+    "emoji": "✅"
+  },
+  {
+    "hanzi": "不",
+    "pinyin": "bù",
+    "english": "No / Not",
+    "emoji": "❌"
+  },
+  {
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "english": "To eat",
+    "emoji": "🍽️"
+  },
+  {
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "english": "To drink",
+    "emoji": "🥤"
+  },
+  {
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "english": "Good / Well",
+    "emoji": "👍"
+  },
+  {
+    "hanzi": "不好",
+    "pinyin": "bù hǎo",
+    "english": "Not good / Bad",
+    "emoji": "👎"
+  },
+  {
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "english": "Love",
+    "emoji": "❤️"
+  },
+  {
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "english": "I / Me",
+    "emoji": "👤"
+  },
+  {
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "english": "You",
+    "emoji": "👉"
+  },
+  {
+    "hanzi": "他",
+    "pinyin": "tā",
+    "english": "He / Him",
+    "emoji": "👨"
+  },
+  {
+    "hanzi": "她",
+    "pinyin": "tā",
+    "english": "She / Her",
+    "emoji": "👩"
+  },
+  {
+    "hanzi": "我们",
+    "pinyin": "wǒ men",
+    "english": "We / Us",
+    "emoji": "👥"
+  },
+  {
+    "hanzi": "他们",
+    "pinyin": "tā men",
+    "english": "They / Them (male/mixed)",
+    "emoji": "👨‍👩‍👦"
+  },
+  {
+    "hanzi": "她们",
+    "pinyin": "tā men",
+    "english": "They / Them (female)",
+    "emoji": "👩‍👩‍👧"
+  },
+  {
+    "hanzi": "名字",
+    "pinyin": "míng zi",
+    "english": "Name",
+    "emoji": "📛"
+  },
+  {
+    "hanzi": "什么",
+    "pinyin": "shén me",
+    "english": "What",
+    "emoji": "❓"
+  },
+  {
+    "hanzi": "哪里",
+    "pinyin": "nǎ lǐ",
+    "english": "Where",
+    "emoji": "🗺️"
+  },
+  {
+    "hanzi": "谁",
+    "pinyin": "shéi",
+    "english": "Who",
+    "emoji": "🕵️"
+  },
+  {
+    "hanzi": "为什么",
+    "pinyin": "wèi shén me",
+    "english": "Why",
+    "emoji": "🤔"
+  },
+  {
+    "hanzi": "怎么",
+    "pinyin": "zěn me",
+    "english": "How",
+    "emoji": "❓"
+  },
+  {
+    "hanzi": "多少",
+    "pinyin": "duō shǎo",
+    "english": "How many / How much",
+    "emoji": "🔢"
+  },
+  {
+    "hanzi": "钱",
+    "pinyin": "qián",
+    "english": "Money",
+    "emoji": "💰"
+  },
+  {
+    "hanzi": "买",
+    "pinyin": "mǎi",
+    "english": "To buy",
+    "emoji": "🛍️"
+  },
+  {
+    "hanzi": "卖",
+    "pinyin": "mài",
+    "english": "To sell",
+    "emoji": "🛒"
+  },
+  {
+    "hanzi": "咖啡",
+    "pinyin": "kā fēi",
+    "english": "Coffee",
+    "emoji": "☕"
+  },
+  {
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "english": "Tea",
+    "emoji": "🍵"
+  },
+  {
+    "hanzi": "牛奶",
+    "pinyin": "niú nǎi",
+    "english": "Milk",
+    "emoji": "🥛"
+  },
+  {
+    "hanzi": "米饭",
+    "pinyin": "mǐ fàn",
+    "english": "Cooked rice",
+    "emoji": "🍚"
+  },
+  {
+    "hanzi": "面条",
+    "pinyin": "miàn tiáo",
+    "english": "Noodles",
+    "emoji": "🍜"
+  },
+  {
+    "hanzi": "菜",
+    "pinyin": "cài",
+    "english": "Dish / Vegetable",
+    "emoji": "🥦"
+  },
+  {
+    "hanzi": "水果",
+    "pinyin": "shuǐ guǒ",
+    "english": "Fruit",
+    "emoji": "🍎"
+  },
+  {
+    "hanzi": "苹果",
+    "pinyin": "píng guǒ",
+    "english": "Apple",
+    "emoji": "🍎"
+  },
+  {
+    "hanzi": "香蕉",
+    "pinyin": "xiāng jiāo",
+    "english": "Banana",
+    "emoji": "🍌"
+  },
+  {
+    "hanzi": "橙子",
+    "pinyin": "chéng zi",
+    "english": "Orange",
+    "emoji": "🍊"
+  },
+  {
+    "hanzi": "电脑",
+    "pinyin": "diàn nǎo",
+    "english": "Computer",
+    "emoji": "💻"
+  },
+  {
+    "hanzi": "手机",
+    "pinyin": "shǒu jī",
+    "english": "Mobile phone",
+    "emoji": "📱"
+  },
+  {
+    "hanzi": "书",
+    "pinyin": "shū",
+    "english": "Book",
+    "emoji": "📚"
+  },
+  {
+    "hanzi": "笔",
+    "pinyin": "bǐ",
+    "english": "Pen",
+    "emoji": "🖊️"
+  },
+  {
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "english": "Home / Family",
+    "emoji": "🏠"
+  },
+  {
+    "hanzi": "学校",
+    "pinyin": "xué xiào",
+    "english": "School",
+    "emoji": "🏫"
+  },
+  {
+    "hanzi": "学生",
+    "pinyin": "xué shēng",
+    "english": "Student",
+    "emoji": "🧑‍🎓"
+  },
+  {
+    "hanzi": "老师",
+    "pinyin": "lǎo shī",
+    "english": "Teacher",
+    "emoji": "👩‍🏫"
+  },
+  {
+    "hanzi": "工作",
+    "pinyin": "gōng zuò",
+    "english": "Work / Job",
+    "emoji": "🧑‍💻"
+  },
+  {
+    "hanzi": "医生",
+    "pinyin": "yī shēng",
+    "english": "Doctor",
+    "emoji": "🧑‍⚕️"
+  },
+  {
+    "hanzi": "商店",
+    "pinyin": "shāng diàn",
+    "english": "Shop / Store",
+    "emoji": "🏪"
+  },
+  {
+    "hanzi": "医院",
+    "pinyin": "yī yuàn",
+    "english": "Hospital",
+    "emoji": "🏥"
+  },
+  {
+    "hanzi": "去",
+    "pinyin": "qù",
+    "english": "To go",
+    "emoji": "🚶"
+  },
+  {
+    "hanzi": "来",
+    "pinyin": "lái",
+    "english": "To come",
+    "emoji": "🚶‍♀️"
+  },
+  {
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "english": "To see / To watch / To look",
+    "emoji": "👀"
+  },
+  {
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "english": "To listen",
+    "emoji": "👂"
+  },
+  {
+    "hanzi": "说",
+    "pinyin": "shuō",
+    "english": "To speak / To say",
+    "emoji": "🗣️"
+  },
+  {
+    "hanzi": "读",
+    "pinyin": "dú",
+    "english": "To read",
+    "emoji": "📖"
+  },
+  {
+    "hanzi": "写",
+    "pinyin": "xiě",
+    "english": "To write",
+    "emoji": "✍️"
+  },
+  {
+    "hanzi": "学习",
+    "pinyin": "xué xí",
+    "english": "To learn / To study",
+    "emoji": "📚"
+  },
+  {
+    "hanzi": "朋友",
+    "pinyin": "péng you",
+    "english": "Friend",
+    "emoji": "👫"
+  },
+  {
+    "hanzi": "男",
+    "pinyin": "nán",
+    "english": "Male / Man",
+    "emoji": "👨"
+  },
+  {
+    "hanzi": "女",
+    "pinyin": "nǚ",
+    "english": "Female / Woman",
+    "emoji": "👩"
+  },
+  {
+    "hanzi": "孩子",
+    "pinyin": "hái zi",
+    "english": "Child / Children",
+    "emoji": "🧒"
+  },
+  {
+    "hanzi": "大",
+    "pinyin": "dà",
+    "english": "Big / Large",
+    "emoji": "🐘"
+  },
+  {
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "english": "Small / Little",
+    "emoji": "🐜"
+  },
+  {
+    "hanzi": "多",
+    "pinyin": "duō",
+    "english": "Many / Much",
+    "emoji": "➕"
+  },
+  {
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "english": "Few / Little",
+    "emoji": "➖"
+  },
+  {
+    "hanzi": "冷",
+    "pinyin": "lěng",
+    "english": "Cold",
+    "emoji": "🥶"
+  },
+  {
+    "hanzi": "热",
+    "pinyin": "rè",
+    "english": "Hot",
+    "emoji": "🥵"
+  },
+  {
+    "hanzi": "漂亮",
+    "pinyin": "piào liang",
+    "english": "Beautiful / Pretty",
+    "emoji": "🌸"
+  },
+  {
+    "hanzi": "帅",
+    "pinyin": "shuài",
+    "english": "Handsome",
+    "emoji": "😎"
+  },
+  {
+    "hanzi": "开心",
+    "pinyin": "kāi xīn",
+    "english": "Happy",
+    "emoji": "😄"
+  },
+  {
+    "hanzi": "难过",
+    "pinyin": "nán guò",
+    "english": "Sad",
+    "emoji": "😥"
+  },
+  {
+    "hanzi": "累",
+    "pinyin": "lèi",
+    "english": "Tired",
+    "emoji": "😴"
+  },
+  {
+    "hanzi": "想",
+    "pinyin": "xiǎng",
+    "english": "To want / To think / To miss",
+    "emoji": "💭"
+  },
+  {
+    "hanzi": "要",
+    "pinyin": "yào",
+    "english": "To want / To need / Will",
+    "emoji": "☝️"
+  },
+  {
+    "hanzi": "会",
+    "pinyin": "huì",
+    "english": "Can / To be able to / Will",
+    "emoji": "💡"
+  },
+  {
+    "hanzi": "能",
+    "pinyin": "néng",
+    "english": "Can / To be able to (permission/possibility)",
+    "emoji": "✅"
+  },
+  {
+    "hanzi": "喜欢",
+    "pinyin": "xǐ huān",
+    "english": "To like",
+    "emoji": "💖"
+  },
+  {
+    "hanzi": "不喜欢",
+    "pinyin": "bù xǐ huān",
+    "english": "To dislike",
+    "emoji": "💔"
+  },
+  {
+    "hanzi": "认识",
+    "pinyin": "rèn shi",
+    "english": "To know (a person)",
+    "emoji": "🤝"
+  },
+  {
+    "hanzi": "知道",
+    "pinyin": "zhī dào",
+    "english": "To know (a fact)",
+    "emoji": "🧠"
+  },
+  {
+    "hanzi": "明天",
+    "pinyin": "míng tiān",
+    "english": "Tomorrow",
+    "emoji": "🌅"
+  },
+  {
+    "hanzi": "今天",
+    "pinyin": "jīn tiān",
+    "english": "Today",
+    "emoji": "☀️"
+  },
+  {
+    "hanzi": "昨天",
+    "pinyin": "zuó tiān",
+    "english": "Yesterday",
+    "emoji": "🌙"
+  },
+  {
+    "hanzi": "早上",
+    "pinyin": "zǎo shàng",
+    "english": "Morning",
+    "emoji": "☀️"
+  },
+  {
+    "hanzi": "晚上",
+    "pinyin": "wǎn shàng",
+    "english": "Evening / Night",
+    "emoji": "🌃"
+  },
+  {
+    "hanzi": "中午",
+    "pinyin": "zhōng wǔ",
+    "english": "Noon",
+    "emoji": "🕛"
+  },
+  {
+    "hanzi": "点",
+    "pinyin": "diǎn",
+    "english": "O'clock / Dot",
+    "emoji": "⏰"
+  },
+  {
+    "hanzi": "分钟",
+    "pinyin": "fēn zhōng",
+    "english": "Minute",
+    "emoji": "⏱️"
+  },
+  {
+    "hanzi": "小时",
+    "pinyin": "xiǎo shí",
+    "english": "Hour",
+    "emoji": "⌚"
+  },
+  {
+    "hanzi": "年",
+    "pinyin": "nián",
+    "english": "Year",
+    "emoji": "🗓️"
+  },
+  {
+    "hanzi": "月",
+    "pinyin": "yuè",
+    "english": "Month / Moon",
+    "emoji": "🌕"
+  },
+  {
+    "hanzi": "日",
+    "pinyin": "rì",
+    "english": "Day / Sun",
+    "emoji": "🌞"
+  },
+  {
+    "hanzi": "星期",
+    "pinyin": "xīng qī",
+    "english": "Week",
+    "emoji": "📆"
+  },
+  {
+    "hanzi": "一",
+    "pinyin": "yī",
+    "english": "One",
+    "emoji": "1️⃣"
+  },
+  {
+    "hanzi": "二",
+    "pinyin": "èr",
+    "english": "Two",
+    "emoji": "2️⃣"
+  },
+  {
+    "hanzi": "三",
+    "pinyin": "sān",
+    "english": "Three",
+    "emoji": "3️⃣"
+  },
+  {
+    "hanzi": "四",
+    "pinyin": "sì",
+    "english": "Four",
+    "emoji": "4️⃣"
+  },
+  {
+    "hanzi": "五",
+    "pinyin": "wǔ",
+    "english": "Five",
+    "emoji": "5️⃣"
+  },
+  {
+    "hanzi": "六",
+    "pinyin": "liù",
+    "english": "Six",
+    "emoji": "6️⃣"
+  },
+  {
+    "hanzi": "七",
+    "pinyin": "qī",
+    "english": "Seven",
+    "emoji": "7️⃣"
+  },
+  {
+    "hanzi": "八",
+    "pinyin": "bā",
+    "english": "Eight",
+    "emoji": "8️⃣"
+  },
+  {
+    "hanzi": "九",
+    "pinyin": "jiǔ",
+    "english": "Nine",
+    "emoji": "9️⃣"
+  },
+  {
+    "hanzi": "十",
+    "pinyin": "shí",
+    "english": "Ten",
+    "emoji": "🔟"
+  },
+  {
+    "hanzi": "零",
+    "pinyin": "líng",
+    "english": "Zero",
+    "emoji": "0️⃣"
+  },
+  {
+    "hanzi": "狗",
+    "pinyin": "gǒu",
+    "english": "Dog",
+    "emoji": "🐶"
+  },
+  {
+    "hanzi": "猫",
+    "pinyin": "māo",
+    "english": "Cat",
+    "emoji": "🐱"
+  },
+  {
+    "hanzi": "鸟",
+    "pinyin": "niǎo",
+    "english": "Bird",
+    "emoji": "🐦"
+  },
+  {
+    "hanzi": "鱼",
+    "pinyin": "yú",
+    "english": "Fish",
+    "emoji": "🐟"
+  },
+  {
+    "hanzi": "汽车",
+    "pinyin": "qì chē",
+    "english": "Car",
+    "emoji": "🚗"
+  },
+  {
+    "hanzi": "飞机",
+    "pinyin": "fēi jī",
+    "english": "Airplane",
+    "emoji": "✈️"
+  },
+  {
+    "hanzi": "火车",
+    "pinyin": "huǒ chē",
+    "english": "Train",
+    "emoji": "🚆"
+  },
+  {
+    "hanzi": "公共汽车",
+    "pinyin": "gōng gòng qì chē",
+    "english": "Bus",
+    "emoji": "🚌"
+  },
+  {
+    "hanzi": "出租车",
+    "pinyin": "chū zū chē",
+    "english": "Taxi",
+    "emoji": "🚕"
+  },
+  {
+    "hanzi": "饭店",
+    "pinyin": "fàn diàn",
+    "english": "Restaurant / Hotel",
+    "emoji": "🏨"
+  },
+  {
+    "hanzi": "银行",
+    "pinyin": "yín háng",
+    "english": "Bank",
+    "emoji": "🏦"
+  },
+  {
+    "hanzi": "邮局",
+    "pinyin": "yóu jú",
+    "english": "Post office",
+    "emoji": "📮"
+  },
+  {
+    "hanzi": "公园",
+    "pinyin": "gōng yuán",
+    "english": "Park",
+    "emoji": "🌳"
+  },
+  {
+    "hanzi": "中国",
+    "pinyin": "zhōng guó",
+    "english": "China",
+    "emoji": "🇨🇳"
+  },
+  {
+    "hanzi": "美国",
+    "pinyin": "měi guó",
+    "english": "USA",
+    "emoji": "🇺🇸"
+  },
+  {
+    "hanzi": "英国",
+    "pinyin": "yīng guó",
+    "english": "UK",
+    "emoji": "🇬🇧"
+  },
+  {
+    "hanzi": "法国",
+    "pinyin": "fǎ guó",
+    "english": "France",
+    "emoji": "🇫🇷"
+  },
+  {
+    "hanzi": "德国",
+    "pinyin": "dé guó",
+    "english": "Germany",
+    "emoji": "🇩🇪"
+  },
+  {
+    "hanzi": "日本人",
+    "pinyin": "rì běn rén",
+    "english": "Japanese person",
+    "emoji": "🇯🇵"
+  },
+  {
+    "hanzi": "中国人",
+    "pinyin": "zhōng guó rén",
+    "english": "Chinese person",
+    "emoji": "🧑‍💼"
+  },
+  {
+    "hanzi": "语言",
+    "pinyin": "yǔ yán",
+    "english": "Language",
+    "emoji": "🗣️"
+  },
+  {
+    "hanzi": "汉语",
+    "pinyin": "hàn yǔ",
+    "english": "Chinese language",
+    "emoji": "🇨🇳🗣️"
+  },
+  {
+    "hanzi": "英文",
+    "pinyin": "yīng wén",
+    "english": "English language",
+    "emoji": "🇬🇧🗣️"
+  },
+  {
+    "hanzi": "高兴",
+    "pinyin": "gāo xìng",
+    "english": "Happy / Glad",
+    "emoji": "😄"
+  },
+  {
+    "hanzi": "早安",
+    "pinyin": "zǎo ān",
+    "english": "Good morning",
+    "emoji": "☀️"
+  },
+  {
+    "hanzi": "晚安",
+    "pinyin": "wǎn ān",
+    "english": "Good night",
+    "emoji": "😴"
+  },
+  {
+    "hanzi": "你好吗",
+    "pinyin": "nǐ hǎo ma",
+    "english": "How are you?",
+    "emoji": "🙋‍♀️"
+  },
+  {
+    "hanzi": "我很好",
+    "pinyin": "wǒ hěn hǎo",
+    "english": "I'm very good",
+    "emoji": "😊"
+  },
+  {
+    "hanzi": "请问",
+    "pinyin": "qǐng wèn",
+    "english": "Excuse me / May I ask?",
+    "emoji": "🗣️"
+  },
+  {
+    "hanzi": "再见",
+    "pinyin": "zài jiàn",
+    "english": "Goodbye",
+    "emoji": "👋"
+  },
+  {
+    "hanzi": "没问题",
+    "pinyin": "méi wèn tí",
+    "english": "No problem",
+    "emoji": "👌"
+  },
+  {
+    "hanzi": "当然",
+    "pinyin": "dāng rán",
+    "english": "Of course",
+    "emoji": "👍"
+  },
+  {
+    "hanzi": "可以",
+    "pinyin": "kě yǐ",
+    "english": "Can / May / Permitted",
+    "emoji": "🆗"
+  },
+  {
+    "hanzi": "不可以",
+    "pinyin": "bù kě yǐ",
+    "english": "Cannot / May not",
+    "emoji": "🚫"
+  },
+  {
+    "hanzi": "多少钱",
+    "pinyin": "duō shǎo qián",
+    "english": "How much does it cost?",
+    "emoji": "💸"
+  },
+  {
+    "hanzi": "这个",
+    "pinyin": "zhè ge",
+    "english": "This one",
+    "emoji": "👇"
+  },
+  {
+    "hanzi": "那个",
+    "pinyin": "nà ge",
+    "english": "That one",
+    "emoji": "👆"
+  },
+  {
+    "hanzi": "请坐",
+    "pinyin": "qǐng zuò",
+    "english": "Please sit down",
+    "emoji": "🪑"
+  },
+  {
+    "hanzi": "请进",
+    "pinyin": "qǐng jìn",
+    "english": "Please come in",
+    "emoji": "🚪"
+  },
+  {
+    "hanzi": "谢谢你",
+    "pinyin": "xiè xie nǐ",
+    "english": "Thank you (to you)",
+    "emoji": "😊🙏"
+  },
+  {
+    "hanzi": "不客气",
+    "pinyin": "bù kè qi",
+    "english": "You're welcome",
+    "emoji": "😌"
+  },
+  {
+    "hanzi": "很高兴认识你",
+    "pinyin": "hěn gāo xìng rèn shi nǐ",
+    "english": "Nice to meet you",
+    "emoji": "🤝"
+  },
+  {
+    "hanzi": "再见",
+    "pinyin": "zài jiàn",
+    "english": "See you again / Goodbye",
+    "emoji": "👋"
+  },
+  {
+    "hanzi": "吃饱了",
+    "pinyin": "chī bǎo le",
+    "english": "I'm full",
+    "emoji": "🤰"
+  },
+  {
+    "hanzi": "肚子饿了",
+    "pinyin": "dù zi è le",
+    "english": "I'm hungry",
+    "emoji": " cravings"
+  },
+  {
+    "hanzi": "我渴了",
+    "pinyin": "wǒ kě le",
+    "english": "I'm thirsty",
+    "emoji": "🥵"
+  },
+  {
+    "hanzi": "想睡觉",
+    "pinyin": "xiǎng shuì jiào",
+    "english": "Want to sleep",
+    "emoji": "😴"
+  },
+  {
+    "hanzi": "累死了",
+    "pinyin": "lèi sǐ le",
+    "english": "Exhausted / Dead tired",
+    "emoji": "😩"
+  },
+  {
+    "hanzi": "我爱你",
+    "pinyin": "wǒ ài nǐ",
+    "english": "I love you",
+    "emoji": "🥰"
+  },
+  {
+    "hanzi": "你好棒",
+    "pinyin": "nǐ hǎo bàng",
+    "english": "You're awesome / You're great",
+    "emoji": "🌟"
+  },
+  {
+    "hanzi": "加油",
+    "pinyin": "jiā yóu",
+    "english": "Go for it! / Cheer up! / Add oil!",
+    "emoji": "💪"
+  },
+  {
+    "hanzi": "麻烦",
+    "pinyin": "má fan",
+    "english": "Troublesome / Trouble",
+    "emoji": "😫"
+  },
+  {
+    "hanzi": "天气",
+    "pinyin": "tiān qì",
+    "english": "Weather",
+    "emoji": "☀️"
+  },
+  {
+    "hanzi": "下雨",
+    "pinyin": "xià yǔ",
+    "english": "To rain",
+    "emoji": "🌧️"
+  },
+  {
+    "hanzi": "下雪",
+    "pinyin": "xià xuě",
+    "english": "To snow",
+    "emoji": "❄️"
+  },
+  {
+    "hanzi": "晴天",
+    "pinyin": "qíng tiān",
+    "english": "Sunny day",
+    "emoji": "☀️"
+  },
+  {
+    "hanzi": "阴天",
+    "pinyin": "yīn tiān",
+    "english": "Cloudy day",
+    "emoji": "☁️"
+  },
+  {
+    "hanzi": "风",
+    "pinyin": "fēng",
+    "english": "Wind",
+    "emoji": "🌬️"
+  },
+  {
+    "hanzi": "台风",
+    "pinyin": "tái fēng",
+    "english": "Typhoon",
+    "emoji": "🌀"
+  },
+  {
+    "hanzi": "四季",
+    "pinyin": "sì jì",
+    "english": "Four seasons",
+    "emoji": "🌸☀️🍂❄️"
+  },
+  {
+    "hanzi": "春天",
+    "pinyin": "chūn tiān",
+    "english": "Spring",
+    "emoji": "🌷"
+  },
+  {
+    "hanzi": "夏天",
+    "pinyin": "xià tiān",
+    "english": "Summer",
+    "emoji": "🏖️"
+  },
+  {
+    "hanzi": "秋天",
+    "pinyin": "qiū tiān",
+    "english": "Autumn / Fall",
+    "emoji": "🍂"
+  },
+  {
+    "hanzi": "冬天",
+    "pinyin": "dōng tiān",
+    "english": "Winter",
+    "emoji": "☃️"
+  },
+  {
+    "hanzi": "颜色",
+    "pinyin": "yán sè",
+    "english": "Color",
+    "emoji": "🌈"
+  },
+  {
+    "hanzi": "红色",
+    "pinyin": "hóng sè",
+    "english": "Red",
+    "emoji": "🟥"
+  },
+  {
+    "hanzi": "蓝色",
+    "pinyin": "lán sè",
+    "english": "Blue",
+    "emoji": "🟦"
+  },
+  {
+    "hanzi": "绿色",
+    "pinyin": "lǜ sè",
+    "english": "Green",
+    "emoji": "🟩"
+  },
+  {
+    "hanzi": "黄色",
+    "pinyin": "huáng sè",
+    "english": "Yellow",
+    "emoji": "🟨"
+  },
+  {
+    "hanzi": "白色",
+    "pinyin": "bái sè",
+    "english": "White",
+    "emoji": "⬜"
+  },
+  {
+    "hanzi": "黑色",
+    "pinyin": "hēi sè",
+    "english": "Black",
+    "emoji": "⬛"
+  },
+  {
+    "hanzi": "灰色",
+    "pinyin": "huī sè",
+    "english": "Grey",
+    "emoji": "▪️"
+  },
+  {
+    "hanzi": "紫色",
+    "pinyin": "zǐ sè",
+    "english": "Purple",
+    "emoji": "🟣"
+  },
+  {
+    "hanzi": "橙色",
+    "pinyin": "chéng sè",
+    "english": "Orange",
+    "emoji": "🟠"
+  },
+  {
+    "hanzi": "棕色",
+    "pinyin": "zōng sè",
+    "english": "Brown",
+    "emoji": "🟫"
+  },
+  {
+    "hanzi": "生日",
+    "pinyin": "shēng rì",
+    "english": "Birthday",
+    "emoji": "🎂"
+  },
+  {
+    "hanzi": "节日",
+    "pinyin": "jié rì",
+    "english": "Festival / Holiday",
+    "emoji": "🎉"
+  },
+  {
+    "hanzi": "快乐",
+    "pinyin": "kuài lè",
+    "english": "Happy / Joyful",
+    "emoji": "🥳"
+  },
+  {
+    "hanzi": "新年快乐",
+    "pinyin": "xīn nián kuài lè",
+    "english": "Happy New Year",
+    "emoji": "🎆"
+  },
+  {
+    "hanzi": "圣诞快乐",
+    "pinyin": "shèng dàn kuài lè",
+    "english": "Merry Christmas",
+    "emoji": "🎄"
+  },
+  {
+    "hanzi": "祝你生日快乐",
+    "pinyin": "zhù nǐ shēng rì kuài lè",
+    "english": "Happy birthday to you",
+    "emoji": "🎁"
+  },
+  {
+    "hanzi": "礼物",
+    "pinyin": "lǐ wù",
+    "english": "Gift / Present",
+    "emoji": "🎁"
+  },
+  {
+    "hanzi": "祝贺",
+    "pinyin": "zhù hè",
+    "english": "To congratulate",
+    "emoji": "👏"
+  },
+  {
+    "hanzi": "恭喜",
+    "pinyin": "gōng xǐ",
+    "english": "Congratulations",
+    "emoji": "🥳"
+  },
+  {
+    "hanzi": "健康",
+    "pinyin": "jiàn kāng",
+    "english": "Healthy / Health",
+    "emoji": "💪"
+  },
+  {
+    "hanzi": "幸福",
+    "pinyin": "xìng fú",
+    "english": "Happiness / Happy",
+    "emoji": "🥰"
+  },
+  {
+    "hanzi": "成功",
+    "pinyin": "chéng gōng",
+    "english": "Success / To succeed",
+    "emoji": "🏆"
+  },
+  {
+    "hanzi": "努力",
+    "pinyin": "nǔ lì",
+    "english": "To work hard / Hardworking",
+    "emoji": "📚"
+  },
+  {
+    "hanzi": "容易",
+    "pinyin": "róng yì",
+    "english": "Easy",
+    "emoji": "😌"
+  },
+  {
+    "hanzi": "难",
+    "pinyin": "nán",
+    "english": "Difficult / Hard",
+    "emoji": "🤯"
+  },
+  {
+    "hanzi": "有趣",
+    "pinyin": "yǒu qù",
+    "english": "Interesting",
+    "emoji": "🤩"
+  },
+  {
+    "hanzi": "无聊",
+    "pinyin": "wú liáo",
+    "english": "Boring",
+    "emoji": "🥱"
+  },
+  {
+    "hanzi": "希望",
+    "pinyin": "xī wàng",
+    "english": "Hope / To hope",
+    "emoji": "🤞"
+  },
+  {
+    "hanzi": "梦想",
+    "pinyin": "mèng xiǎng",
+    "english": "Dream",
+    "emoji": "💭"
+  },
+  {
+    "hanzi": "未来",
+    "pinyin": "wèi lái",
+    "english": "Future",
+    "emoji": "🔮"
+  },
+  {
+    "hanzi": "过去",
+    "pinyin": "guò qù",
+    "english": "Past",
+    "emoji": "🕰️"
+  },
+  {
+    "hanzi": "现在",
+    "pinyin": "xiàn zài",
+    "english": "Now / Present",
+    "emoji": "⏰"
+  },
+  {
+    "hanzi": "时间",
+    "pinyin": "shí jiān",
+    "english": "Time",
+    "emoji": "⏳"
+  },
+  {
+    "hanzi": "世界",
+    "pinyin": "shì jiè",
+    "english": "World",
+    "emoji": "🌎"
+  },
+  {
+    "hanzi": "国家",
+    "pinyin": "guó jiā",
+    "english": "Country / Nation",
+    "emoji": "🌐"
+  },
+  {
+    "hanzi": "城市",
+    "pinyin": "chéng shì",
+    "english": "City",
+    "emoji": "🏙️"
+  },
+  {
+    "hanzi": "农村",
+    "pinyin": "nóng cūn",
+    "english": "Countryside / Village",
+    "emoji": "🚜"
+  },
+  {
+    "hanzi": "地方",
+    "pinyin": "dì fang",
+    "english": "Place",
+    "emoji": "📍"
+  },
+  {
+    "hanzi": "方向",
+    "pinyin": "fāng xiàng",
+    "english": "Direction",
+    "emoji": "🧭"
+  },
+  {
+    "hanzi": "东",
+    "pinyin": "dōng",
+    "english": "East",
+    "emoji": "➡️"
+  },
+  {
+    "hanzi": "南",
+    "pinyin": "nán",
+    "english": "South",
+    "emoji": "⬇️"
+  },
+  {
+    "hanzi": "西",
+    "pinyin": "xī",
+    "english": "West",
+    "emoji": "⬅️"
+  },
+  {
+    "hanzi": "北",
+    "pinyin": "běi",
+    "english": "North",
+    "emoji": "⬆️"
+  },
+  {
+    "hanzi": "左",
+    "pinyin": "zuǒ",
+    "english": "Left",
+    "emoji": "👈"
+  },
+  {
+    "hanzi": "右",
+    "pinyin": "yòu",
+    "english": "Right",
+    "emoji": "👉"
+  },
+  {
+    "hanzi": "前",
+    "pinyin": "qián",
+    "english": "Front / Before",
+    "emoji": "⬆️"
+  },
+  {
+    "hanzi": "后",
+    "pinyin": "hòu",
+    "english": "Back / After",
+    "emoji": "⬇️"
+  },
+  {
+    "hanzi": "上",
+    "pinyin": "shàng",
+    "english": "Up / Above",
+    "emoji": "👆"
+  },
+  {
+    "hanzi": "下",
+    "pinyin": "xià",
+    "english": "Down / Below",
+    "emoji": "👇"
+  },
+  {
+    "hanzi": "里面",
+    "pinyin": "lǐ miàn",
+    "english": "Inside",
+    "emoji": "📦"
+  },
+  {
+    "hanzi": "外面",
+    "pinyin": "wài miàn",
+    "english": "Outside",
+    "emoji": "🏞️"
+  },
+  {
+    "hanzi": "中间",
+    "pinyin": "zhōng jiān",
+    "english": "Middle / In between",
+    "emoji": "↔️"
+  },
+  {
+    "hanzi": "旁边",
+    "pinyin": "páng biān",
+    "english": "Next to / Beside",
+    "emoji": "➡️"
+  },
+  {
+    "hanzi": "远",
+    "pinyin": "yuǎn",
+    "english": "Far",
+    "emoji": "🌌"
+  },
+  {
+    "hanzi": "近",
+    "pinyin": "jìn",
+    "english": "Near",
+    "emoji": "🤏"
+  },
+  {
+    "hanzi": "走",
+    "pinyin": "zǒu",
+    "english": "To walk",
+    "emoji": "🚶"
+  },
+  {
+    "hanzi": "跑",
+    "pinyin": "pǎo",
+    "english": "To run",
+    "emoji": "🏃"
+  },
+  {
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "english": "To sit",
+    "emoji": "🪑"
+  },
+  {
+    "hanzi": "站",
+    "pinyin": "zhàn",
+    "english": "To stand",
+    "emoji": "🧍"
+  },
+  {
+    "hanzi": "睡",
+    "pinyin": "shuì",
+    "english": "To sleep",
+    "emoji": "😴"
+  },
+  {
+    "hanzi": "起床",
+    "pinyin": "qǐ chuáng",
+    "english": "To get up (from bed)",
+    "emoji": "🛌"
+  },
+  {
+    "hanzi": "穿",
+    "pinyin": "chuān",
+    "english": "To wear / To put on",
+    "emoji": "👕"
+  },
+  {
+    "hanzi": "衣服",
+    "pinyin": "yī fu",
+    "english": "Clothes",
+    "emoji": "👕"
+  },
+  {
+    "hanzi": "鞋子",
+    "pinyin": "xié zi",
+    "english": "Shoes",
+    "emoji": "👟"
+  },
+  {
+    "hanzi": "帽子",
+    "pinyin": "mào zi",
+    "english": "Hat / Cap",
+    "emoji": "🧢"
+  },
+  {
+    "hanzi": "眼镜",
+    "pinyin": "yǎn jìng",
+    "english": "Glasses",
+    "emoji": "👓"
+  },
+  {
+    "hanzi": "身体",
+    "pinyin": "shēn tǐ",
+    "english": "Body",
+    "emoji": "🧍"
+  },
+  {
+    "hanzi": "头",
+    "pinyin": "tóu",
+    "english": "Head",
+    "emoji": "💆"
+  },
+  {
+    "hanzi": "眼睛",
+    "pinyin": "yǎn jing",
+    "english": "Eyes",
+    "emoji": "👀"
+  },
+  {
+    "hanzi": "耳朵",
+    "pinyin": "ěr duo",
+    "english": "Ears",
+    "emoji": "👂"
+  },
+  {
+    "hanzi": "鼻子",
+    "pinyin": "bí zi",
+    "english": "Nose",
+    "emoji": "👃"
+  },
+  {
+    "hanzi": "嘴巴",
+    "pinyin": "zuǐ ba",
+    "english": "Mouth",
+    "emoji": "👄"
+  },
+  {
+    "hanzi": "手",
+    "pinyin": "shǒu",
+    "english": "Hand",
+    "emoji": "🖐️"
+  },
+  {
+    "hanzi": "脚",
+    "pinyin": "jiǎo",
+    "english": "Foot / Leg",
+    "emoji": "🦶"
+  },
+  {
+    "hanzi": "心",
+    "pinyin": "xīn",
+    "english": "Heart",
+    "emoji": "❤️"
+  },
+  {
+    "hanzi": "痛",
+    "pinyin": "tòng",
+    "english": "Pain / Ache",
+    "emoji": "🤕"
+  },
+  {
+    "hanzi": "头痛",
+    "pinyin": "tóu tòng",
+    "english": "Headache",
+    "emoji": "🤯"
+  },
+  {
+    "hanzi": "生病",
+    "pinyin": "shēng bìng",
+    "english": "To be sick",
+    "emoji": "🤒"
+  },
+  {
+    "hanzi": "看医生",
+    "pinyin": "kàn yī shēng",
+    "english": "To see a doctor",
+    "emoji": "🩺"
+  },
+  {
+    "hanzi": "药",
+    "pinyin": "yào",
+    "english": "Medicine",
+    "emoji": "💊"
+  },
+  {
+    "hanzi": "护士",
+    "pinyin": "hù shi",
+    "english": "Nurse",
+    "emoji": "👩‍⚕️"
+  },
+  {
+    "hanzi": "健康",
+    "pinyin": "jiàn kāng",
+    "english": "Healthy",
+    "emoji": "🧘"
+  },
+  {
+    "hanzi": "运动",
+    "pinyin": "yùn dòng",
+    "english": "Sport / Exercise",
+    "emoji": "⛹️"
+  },
+  {
+    "hanzi": "游泳",
+    "pinyin": "yóu yǒng",
+    "english": "To swim",
+    "emoji": "🏊"
+  },
+  {
+    "hanzi": "跑步",
+    "pinyin": "pǎo bù",
+    "english": "To run / Running",
+    "emoji": "🏃"
+  },
+  {
+    "hanzi": "打球",
+    "pinyin": "dǎ qiú",
+    "english": "To play ball (sports)",
+    "emoji": "🏀"
+  },
+  {
+    "hanzi": "唱歌",
+    "pinyin": "chàng gē",
+    "english": "To sing",
+    "emoji": "🎤"
+  },
+  {
+    "hanzi": "跳舞",
+    "pinyin": "tiào wǔ",
+    "english": "To dance",
+    "emoji": "💃"
+  },
+  {
+    "hanzi": "音乐",
+    "pinyin": "yīn yuè",
+    "english": "Music",
+    "emoji": "🎶"
+  },
+  {
+    "hanzi": "电影",
+    "pinyin": "diàn yǐng",
+    "english": "Movie",
+    "emoji": "🎬"
+  },
+  {
+    "hanzi": "电视",
+    "pinyin": "diàn shì",
+    "english": "Television",
+    "emoji": "📺"
+  },
+  {
+    "hanzi": "报纸",
+    "pinyin": "bào zhǐ",
+    "english": "Newspaper",
+    "emoji": "📰"
+  },
+  {
+    "hanzi": "杂志",
+    "pinyin": "zá zhì",
+    "english": "Magazine",
+    "emoji": "📖"
+  },
+  {
+    "hanzi": "新闻",
+    "pinyin": "xīn wén",
+    "english": "News",
+    "emoji": "🗞️"
+  },
+  {
+    "hanzi": "照片",
+    "pinyin": "zhào piàn",
+    "english": "Photo / Picture",
+    "emoji": "📸"
+  },
+  {
+    "hanzi": "照相机",
+    "pinyin": "zhào xiàng jī",
+    "english": "Camera",
+    "emoji": "📷"
+  },
+  {
+    "hanzi": "电脑游戏",
+    "pinyin": "diàn nǎo yóu xì",
+    "english": "Computer game",
+    "emoji": "🎮"
+  },
+  {
+    "hanzi": "玩",
+    "pinyin": "wán",
+    "english": "To play",
+    "emoji": "🕹️"
+  },
+  {
+    "hanzi": "学习",
+    "pinyin": "xué xí",
+    "english": "To study / To learn",
+    "emoji": "📚"
+  },
+  {
+    "hanzi": "考试",
+    "pinyin": "kǎo shì",
+    "english": "Exam / Test",
+    "emoji": "📝"
+  },
+  {
+    "hanzi": "成绩",
+    "pinyin": "chéng jì",
+    "english": "Grades / Results",
+    "emoji": "💯"
+  },
+  {
+    "hanzi": "问题",
+    "pinyin": "wèn tí",
+    "english": "Question / Problem",
+    "emoji": "❓"
+  },
+  {
+    "hanzi": "答案",
+    "pinyin": "dá àn",
+    "english": "Answer",
+    "emoji": "✔️"
+  },
+  {
+    "hanzi": "帮助",
+    "pinyin": "bāng zhù",
+    "english": "To help / Help",
+    "emoji": "🤝"
+  },
+  {
+    "hanzi": "给",
+    "pinyin": "gěi",
+    "english": "To give",
+    "emoji": "🤲"
+  },
+  {
+    "hanzi": "拿",
+    "pinyin": "ná",
+    "english": "To take / To hold",
+    "emoji": "🤏"
+  },
+  {
+    "hanzi": "送",
+    "pinyin": "sòng",
+    "english": "To send / To give (as a gift)",
+    "emoji": "📦"
+  },
+  {
+    "hanzi": "收到",
+    "pinyin": "shōu dào",
+    "english": "To receive",
+    "emoji": "📥"
+  },
+  {
+    "hanzi": "打电话",
+    "pinyin": "dǎ diàn huà",
+    "english": "To make a phone call",
+    "emoji": "📞"
+  },
+  {
+    "hanzi": "发短信",
+    "pinyin": "fā duǎn xìn",
+    "english": "To send a text message",
+    "emoji": " nhắn tin"
+  },
+  {
+    "hanzi": "上网",
+    "pinyin": "shàng wǎng",
+    "english": "To go online / Surf the internet",
+    "emoji": "🌐"
+  },
+  {
+    "hanzi": "邮件",
+    "pinyin": "yóu jiàn",
+    "english": "Email",
+    "emoji": "📧"
+  },
+  {
+    "hanzi": "脸书",
+    "pinyin": "liǎn shū",
+    "english": "Facebook",
+    "emoji": "🔵"
+  },
+  {
+    "hanzi": "推特",
+    "pinyin": "tuī tè",
+    "english": "Twitter",
+    "emoji": "🐦"
+  },
+  {
+    "hanzi": "微信",
+    "pinyin": "wēi xìn",
+    "english": "WeChat",
+    "emoji": "🟢"
+  },
+  {
+    "hanzi": "吃惊",
+    "pinyin": "chī jīng",
+    "english": "Surprised",
+    "emoji": "😲"
+  },
+  {
+    "hanzi": "生气",
+    "pinyin": "shēng qì",
+    "english": "Angry",
+    "emoji": "😠"
+  },
+  {
+    "hanzi": "害怕",
+    "pinyin": "hài pà",
+    "english": "Scared / Afraid",
+    "emoji": "😨"
+  },
+  {
+    "hanzi": "紧张",
+    "pinyin": "jǐn zhāng",
+    "english": "Nervous",
+    "emoji": "😬"
+  },
+  {
+    "hanzi": "放松",
+    "pinyin": "fàng sōng",
+    "english": "To relax / Relaxed",
+    "emoji": "😌"
+  },
+  {
+    "hanzi": "可爱",
+    "pinyin": "kě ài",
+    "english": "Cute / Lovely",
+    "emoji": "🥰"
+  },
+  {
+    "hanzi": "聪明",
+    "pinyin": "cōng míng",
+    "english": "Smart / Intelligent",
+    "emoji": "💡"
+  },
+  {
+    "hanzi": "笨",
+    "pinyin": "bèn",
+    "english": "Stupid / Dumb",
+    "emoji": "🤦"
+  },
+  {
+    "hanzi": "好玩",
+    "pinyin": "hǎo wán",
+    "english": "Fun / Amusing",
+    "emoji": "🥳"
+  },
+  {
+    "hanzi": "认真",
+    "pinyin": "rèn zhēn",
+    "english": "Serious / Conscientious",
+    "emoji": "🧐"
+  },
+  {
+    "hanzi": "努力",
+    "pinyin": "nǔ lì",
+    "english": "Hardworking",
+    "emoji": "💪"
+  },
+  {
+    "hanzi": "懒",
+    "pinyin": "lǎn",
+    "english": "Lazy",
+    "emoji": "🛌"
+  },
+  {
+    "hanzi": "忙",
+    "pinyin": "máng",
+    "english": "Busy",
+    "emoji": "🏃‍♀️"
+  },
+  {
+    "hanzi": "空闲",
+    "pinyin": "kòng xián",
+    "english": "Free / At leisure",
+    "emoji": "🛋️"
+  },
+  {
+    "hanzi": "事情",
+    "pinyin": "shì qíng",
+    "english": "Thing / Matter / Affair",
+    "emoji": "📋"
+  },
+  {
+    "hanzi": "做饭",
+    "pinyin": "zuò fàn",
+    "english": "To cook",
+    "emoji": "🍳"
+  },
+  {
+    "hanzi": "洗碗",
+    "pinyin": "xǐ wǎn",
+    "english": "To wash dishes",
+    "emoji": "🧼"
+  },
+  {
+    "hanzi": "打扫",
+    "pinyin": "dǎ sǎo",
+    "english": "To clean",
+    "emoji": "🧹"
+  },
+  {
+    "hanzi": "开车",
+    "pinyin": "kāi chē",
+    "english": "To drive a car",
+    "emoji": "🚗"
+  },
+  {
+    "hanzi": "坐车",
+    "pinyin": "zuò chē",
+    "english": "To take a car / bus",
+    "emoji": "🚌"
+  },
+  {
+    "hanzi": "骑自行车",
+    "pinyin": "qí zì xíng chē",
+    "english": "To ride a bicycle",
+    "emoji": "🚲"
+  },
+  {
+    "hanzi": "飞机票",
+    "pinyin": "fēi jī piào",
+    "english": "Airplane ticket",
+    "emoji": "🎫"
+  },
+  {
+    "hanzi": "旅行",
+    "pinyin": "lǚ xíng",
+    "english": "To travel / Travel",
+    "emoji": "✈️"
+  },
+  {
+    "hanzi": "度假",
+    "pinyin": "dù jià",
+    "english": "To go on holiday",
+    "emoji": "🌴"
+  },
+  {
+    "hanzi": "护照",
+    "pinyin": "hù zhào",
+    "english": "Passport",
+    "emoji": "🛂"
+  },
+  {
+    "hanzi": "签证",
+    "pinyin": "qiān zhèng",
+    "english": "Visa",
+    "emoji": " stamped"
+  },
+  {
+    "hanzi": "海关",
+    "pinyin": "hǎi guān",
+    "english": "Customs",
+    "emoji": "👮"
+  },
+  {
+    "hanzi": "机场",
+    "pinyin": "jī chǎng",
+    "english": "Airport",
+    "emoji": "✈️"
+  },
+  {
+    "hanzi": "酒店",
+    "pinyin": "jiǔ diàn",
+    "english": "Hotel",
+    "emoji": "🏨"
+  },
+  {
+    "hanzi": "房间",
+    "pinyin": "fáng jiān",
+    "english": "Room",
+    "emoji": "🚪"
+  },
+  {
+    "hanzi": "钥匙",
+    "pinyin": "yào shi",
+    "english": "Key",
+    "emoji": "🔑"
+  },
+  {
+    "hanzi": "地图",
+    "pinyin": "dì tú",
+    "english": "Map",
+    "emoji": "🗺️"
+  },
+  {
+    "hanzi": "问路",
+    "pinyin": "wèn lù",
+    "english": "To ask for directions",
+    "emoji": "❓"
+  },
+  {
+    "hanzi": "迷路",
+    "pinyin": "mí lù",
+    "english": "To be lost",
+    "emoji": "🤷"
+  },
+  {
+    "hanzi": "饭店",
+    "pinyin": "fàn diàn",
+    "english": "Restaurant",
+    "emoji": "🍽️"
+  },
+  {
+    "hanzi": "菜单",
+    "pinyin": "cài dān",
+    "english": "Menu",
+    "emoji": "📜"
+  },
+  {
+    "hanzi": "点菜",
+    "pinyin": "diǎn cài",
+    "english": "To order food",
+    "emoji": "📝"
+  },
+  {
+    "hanzi": "服务员",
+    "pinyin": "fú wù yuán",
+    "english": "Waiter / Waitress",
+    "emoji": "🤵"
+  },
+  {
+    "hanzi": "好吃",
+    "pinyin": "hǎo chī",
+    "english": "Delicious",
+    "emoji": "😋"
+  },
+  {
+    "hanzi": "难吃",
+    "pinyin": "nán chī",
+    "english": "Bad tasting",
+    "emoji": "🤢"
+  },
+  {
+    "hanzi": "打包",
+    "pinyin": "dǎ bāo",
+    "english": "To pack / To take away (food)",
+    "emoji": "🥡"
+  },
+  {
+    "hanzi": "买单",
+    "pinyin": "mǎi dān",
+    "english": "To pay the bill",
+    "emoji": "🧾"
+  },
+  {
+    "hanzi": "小费",
+    "pinyin": "xiǎo fèi",
+    "english": "Tip",
+    "emoji": "💵"
+  },
+  {
+    "hanzi": "甜",
+    "pinyin": "tián",
+    "english": "Sweet",
+    "emoji": "🍬"
+  },
+  {
+    "hanzi": "酸",
+    "pinyin": "suān",
+    "english": "Sour",
+    "emoji": "🍋"
+  },
+  {
+    "hanzi": "苦",
+    "pinyin": "kǔ",
+    "english": "Bitter",
+    "emoji": "☕"
+  },
+  {
+    "hanzi": "辣",
+    "pinyin": "là",
+    "english": "Spicy",
+    "emoji": "🌶️"
+  },
+  {
+    "hanzi": "咸",
+    "pinyin": "xián",
+    "english": "Salty",
+    "emoji": "🧂"
+  },
+  {
+    "hanzi": "新鲜",
+    "pinyin": "xīn xiān",
+    "english": "Fresh",
+    "emoji": "🌱"
+  },
+  {
+    "hanzi": "干净",
+    "pinyin": "gān jìng",
+    "english": "Clean",
+    "emoji": "✨"
+  },
+  {
+    "hanzi": "脏",
+    "pinyin": "zāng",
+    "english": "Dirty",
+    "emoji": "💩"
+  },
+  {
+    "hanzi": "贵",
+    "pinyin": "guì",
+    "english": "Expensive",
+    "emoji": "💎"
+  },
+  {
+    "hanzi": "便宜",
+    "pinyin": "pián yi",
+    "english": "Cheap",
+    "emoji": "💰"
+  },
+  {
+    "hanzi": "快",
+    "pinyin": "kuài",
+    "english": "Fast / Quick",
+    "emoji": "⚡"
+  },
+  {
+    "hanzi": "慢",
+    "pinyin": "màn",
+    "english": "Slow",
+    "emoji": "🐌"
+  },
+  {
+    "hanzi": "早",
+    "pinyin": "zǎo",
+    "english": "Early",
+    "emoji": "🌅"
+  },
+  {
+    "hanzi": "晚",
+    "pinyin": "wǎn",
+    "english": "Late",
+    "emoji": "🌃"
+  },
+  {
+    "hanzi": "经常",
+    "pinyin": "jīng cháng",
+    "english": "Often / Frequently",
+    "emoji": "🔄"
+  },
+  {
+    "hanzi": "有时候",
+    "pinyin": "yǒu shí hou",
+    "english": "Sometimes",
+    "emoji": "🎲"
+  },
+  {
+    "hanzi": "从来不",
+    "pinyin": "cóng lái bù",
+    "english": "Never",
+    "emoji": "🚫"
+  },
+  {
+    "hanzi": "总是",
+    "pinyin": "zǒng shì",
+    "english": "Always",
+    "emoji": "♾️"
+  },
+  {
+    "hanzi": "当然",
+    "pinyin": "dāng rán",
+    "english": "Of course",
+    "emoji": "✅"
+  },
+  {
+    "hanzi": "也许",
+    "pinyin": "yě xǔ",
+    "english": "Perhaps / Maybe",
+    "emoji": "🤷‍♀️"
+  },
+  {
+    "hanzi": "一定",
+    "pinyin": "yī dìng",
+    "english": "Definitely / Must",
+    "emoji": "💯"
+  },
+  {
+    "hanzi": "可能",
+    "pinyin": "kě néng",
+    "english": "Possible / Maybe",
+    "emoji": "❓"
+  },
+  {
+    "hanzi": "真的",
+    "pinyin": "zhēn de",
+    "english": "Really / Truly",
+    "emoji": "😲"
+  },
+  {
+    "hanzi": "假的",
+    "pinyin": "jiǎ de",
+    "english": "Fake / False",
+    "emoji": "🤥"
+  },
+  {
+    "hanzi": "重要",
+    "pinyin": "zhòng yào",
+    "english": "Important",
+    "emoji": "❗️"
+  },
+  {
+    "hanzi": "不重要",
+    "pinyin": "bù zhòng yào",
+    "english": "Not important",
+    "emoji": " meh"
+  },
+  {
+    "hanzi": "明白",
+    "pinyin": "míng bái",
+    "english": "To understand",
+    "emoji": "💡"
+  },
+  {
+    "hanzi": "不懂",
+    "pinyin": "bù dǒng",
+    "english": "Don't understand",
+    "emoji": " confusion"
+  },
+  {
+    "hanzi": "意思",
+    "pinyin": "yì si",
+    "english": "Meaning / Idea",
+    "emoji": "🤔"
+  },
+  {
+    "hanzi": "可以再说一遍吗？",
+    "pinyin": "kě yǐ zài shuō yī biàn ma?",
+    "english": "Can you say it again?",
+    "emoji": "🗣️❓"
+  },
+  {
+    "hanzi": "请说慢一点",
+    "pinyin": "qǐng shuō màn yī diǎn",
+    "english": "Please speak a little slower",
+    "emoji": "🐢🗣️"
+  },
+  {
+    "hanzi": "我听不懂",
+    "pinyin": "wǒ tīng bù dǒng",
+    "english": "I don't understand (by listening)",
+    "emoji": "👂🚫"
+  },
+  {
+    "hanzi": "请问您贵姓？",
+    "pinyin": "qǐng wèn nín guì xìng?",
+    "english": "May I ask your esteemed surname?",
+    "emoji": "🤵❓"
+  },
+  {
+    "hanzi": "我叫...",
+    "pinyin": "wǒ jiào...",
+    "english": "My name is...",
+    "emoji": "👤"
+  },
+  {
+    "hanzi": "您是哪国人？",
+    "pinyin": "nín shì nǎ guó rén?",
+    "english": "Which country are you from?",
+    "emoji": "🌎❓"
+  },
+  {
+    "hanzi": "我是美国人。",
+    "pinyin": "wǒ shì měi guó rén.",
+    "english": "I am American.",
+    "emoji": "🇺🇸"
+  },
+  {
+    "hanzi": "你多大了？",
+    "pinyin": "nǐ duō dà le?",
+    "english": "How old are you?",
+    "emoji": "🎂❓"
+  },
+  {
+    "hanzi": "我二十岁。",
+    "pinyin": "wǒ èr shí suì.",
+    "english": "I am 20 years old.",
+    "emoji": "2️⃣0️⃣"
+  }
+]
